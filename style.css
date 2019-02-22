@@ -1,0 +1,89 @@
+
+#nav{
+    list-style-type: none;
+  margin: 10px;
+  list-style-type: none;
+  margin: 5px;
+  padding: 5px;
+  overflow: hidden;
+  background-color: #dfcbe4;
+}
+.inline{
+    float: left;
+    display: inline;
+  color: black;
+  text-align: center;
+  padding: 10px 30px;
+  text-decoration: none;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+}
+
+#active{
+    background-color: #5b8bc2;
+    float: right;
+}
+
+
+#bacon{
+  display: inline-block;
+  max-width: 10%;
+ 
+}
+h1{
+    font-family: indie flower;
+    font-size: 40px;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+body{
+  clear: both;
+}
+#bgc{
+    float: right;
+    font-family:kanit;  
+}
+
+#Direct{
+    padding-top: 0px; 
+}
+
+.gallery{
+    float: left;
+  width: 33.33%; 
+  padding: 5px;
+  border-radius: 10px;
+  
+}
+
+
+
+.gallery img{
+max-width: 70%;
+max-height: 50%;
+}
+
+h2{
+    margin-top: 10px;
+}
+h4{
+    text-align: left;
+}
+
+.Nutrition, th, td {
+    border: 1px;
+     border-collapse: collapse;
+     padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    font-size: 15px;
+  }
+
+  footer{
+    padding: 2px; 
+    border: 2px;
+    background-color: #5b8bc2;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+  }
